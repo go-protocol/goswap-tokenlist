@@ -1,6 +1,6 @@
 {
-  "name": "goswap-heco-tokenlist",
-  "version": "1.0.1",
+  "name": "goswap-tokenlist",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CuiMianTeam/goswap-heco-tokenlist.git"
+    "url": "git+https://github.com/go-protocal/goswap-tokenlist.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CuiMianTeam/goswap-heco-tokenlist/issues"
+    "url": "https://github.com/go-protocal/goswap-tokenlist/issues"
   },
-  "homepage": "https://github.com/CuiMianTeam/goswap-heco-tokenlist#readme"
+  "homepage": "https://github.com/go-protocal/goswap-tokenlist#readme"
 }

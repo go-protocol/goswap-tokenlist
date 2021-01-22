@@ -179,16 +179,32 @@
     },
     {
       "name": "GoSwap Token",
-      "address": "0x411c71e1a08b5c3831cafe68a808f00b8ed03188",
+      "address": "0xA7d5b5Dbc29ddef9871333AD2295B2E7D6F12391",
       "symbol": "GOT",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
     },
     {
-      "name": "GoSwap Cash",
-      "address": "0xddda2edf140ce5bc3f2987312d8b64f429dadadf",
+      "name": "GoCash Cash",
+      "address": "0x271B54EBe36005A7296894F819D626161C44825C",
       "symbol": "GOC",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+    },
+    {
+      "name": "GoCash Share",
+      "address": "0x36b29B53c483bd00978D40126E614bb7e45d8354",
+      "symbol": "GOS",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+    },
+    {
+      "name": "GoCash Bond",
+      "address": "0xaC42E32D530d5e3efD74411547021b5791fAF77A",
+      "symbol": "GOB",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
