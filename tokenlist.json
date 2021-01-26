@@ -19,7 +19,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd.png"
     },
     {
       "name": "Tether COIN",
@@ -27,7 +27,7 @@
       "symbol": "HUSDT",
       "decimals": 6,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x04f535663110a392a6504839beed34e019fdb4e0.png"
     },
     {
       "name": "Dai COIN",
@@ -35,7 +35,7 @@
       "symbol": "HDai",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x60d64ef311a4f0e288120543a14e7f90e76304c6.png"
     },
     {
       "name": "USDCoin",
@@ -43,7 +43,7 @@
       "symbol": "HUSDC",
       "decimals": 6,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xd459dad367788893c17c09e17cfbf0bf25c62833.png"
     },
     {
       "name": "TrueUSD",
@@ -51,7 +51,7 @@
       "symbol": "HTUSD",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xdb4c5b219168f926c2c0c776438b8355a3a4018e.png"
     },
     {
       "name": "ETH",
@@ -59,7 +59,7 @@
       "symbol": "HETH",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfeb76ae65c11b363bd452afb4a7ec59925848656/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xfeb76ae65c11b363bd452afb4a7ec59925848656.png"
     },
     {
       "name": "BTC",
@@ -67,7 +67,7 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d8684e6cdd65383affd3d5cf8263fcda5001f13/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x1d8684e6cdd65383affd3d5cf8263fcda5001f13.png"
     },
     {
       "name": "Heco USD",
@@ -75,7 +75,7 @@
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x0f548051B135fa8f7F6190cb78Fd13eCB544fEE6.png"
     },
     {
       "name": "GoSwap Token",
@@ -83,7 +83,7 @@
       "symbol": "GOT",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xA7d5b5Dbc29ddef9871333AD2295B2E7D6F12391.png"
     },
     {
       "name": "GoCash Cash",
@@ -91,7 +91,7 @@
       "symbol": "GOC",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x271B54EBe36005A7296894F819D626161C44825C.png"
     },
     {
       "name": "GoCash Share",
@@ -99,7 +99,7 @@
       "symbol": "GOS",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x36b29B53c483bd00978D40126E614bb7e45d8354.png"
     },
     {
       "name": "GoCash Bond",
@@ -107,7 +107,7 @@
       "symbol": "GOB",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xaC42E32D530d5e3efD74411547021b5791fAF77A.png"
     },
     {
       "name": "Heco-Peg HUSD Token",
@@ -115,7 +115,7 @@
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x0298c2b32eae4da002a15f36fdf7615bea3da047.png"
     },
     {
       "name": "Wrapped HT",
@@ -123,7 +123,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
     },
     {
       "name": "Heco-Peg ETH Token",
@@ -131,7 +131,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
@@ -139,7 +139,7 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6941.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x66a79d23e58475d2738179ca52cd0b41d73f0bea.png"
     },
     {
       "name": "Heco-Peg HDOT Token",
@@ -147,7 +147,7 @@
       "symbol": "HDOT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3.png"
     },
     {
       "name": "Heco-Peg HLTC Token",
@@ -155,7 +155,7 @@
       "symbol": "HLTC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4.png"
     },
     {
       "name": "Heco-Peg HBCH Token",
@@ -163,7 +163,7 @@
       "symbol": "HBCH",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xef3cebd77e0c52cb6f60875d9306397b5caca375.png"
     },
     {
       "name": "Heco-Peg HXTZ Token",
@@ -171,7 +171,7 @@
       "symbol": "HXTZ",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x45e97dad828ad735af1df0473fc2735f0fd5330c.png"
     },
     {
       "name": "Heco-Peg HFIL Token",
@@ -179,7 +179,7 @@
       "symbol": "HFIL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xae3a768f9ab104c69a7cd6041fe16ffa235d1810.png"
     },
     {
       "name": "Heco-Peg HBSV Token",
@@ -187,7 +187,7 @@
       "symbol": "HBSV",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1.png"
     },
     {
       "name": "Heco BAG Token",
@@ -195,7 +195,7 @@
       "symbol": "BAG",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://ht.mdex.com/images/bag.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa042fb0e60125A4022670014AC121931e7501Af4.png"
     },
     {
       "name": "Heco BAGS Token",
@@ -203,7 +203,7 @@
       "symbol": "BAGS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://ht.mdex.com/images/bags.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x6868D406a125Eb30886A6DD6B651D81677d1F22c.png"
     },
     {
       "name": "Heco NVT Token",
@@ -211,7 +211,7 @@
       "symbol": "NVT",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://ht.mdex.com/images/nvt.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
     },
     {
       "name": "Heco FilDA Token",
@@ -219,7 +219,7 @@
       "symbol": "FilDA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://ht.mdex.com/images/FilDA.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xe36ffd17b2661eb57144ceaef942d95295e637f0.png"
     },
     {
       "name": "Heco LYFI Token",
@@ -227,7 +227,7 @@
       "symbol": "LYFI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa441b796e160e204cd0f53d3216275056a355980.png"
     },
     {
       "name": "Heco FC Token",
@@ -235,7 +235,7 @@
       "symbol": "FC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
     },
     {
       "name": "Heco FCS Token",
@@ -243,7 +243,7 @@
       "symbol": "FCS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
     },
     {
       "name": "Heco NULS Token",
@@ -251,7 +251,7 @@
       "symbol": "NULS",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
     },
     {
       "name": "Heco-Peg HPT Token",
@@ -259,7 +259,7 @@
       "symbol": "HPT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
     },
     {
       "name": "Heco GSD Token",
@@ -267,7 +267,7 @@
       "symbol": "GSD",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
     },
     {
       "name": "Heco HTC Token",
@@ -275,7 +275,7 @@
       "symbol": "HTC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
     },
     {
       "name": "Heco HTS Token",
@@ -283,7 +283,7 @@
       "symbol": "HTS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
     },
     {
       "name": "Heco BLC Token",
@@ -291,7 +291,7 @@
       "symbol": "BLC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xc657d9664f9a011a3aededab8a0296dc60284e5f.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x8AD1caE277B17Ca0Ad0393100E6EBd545B9367Cb.png"
     },
     {
       "name": "Heco BLS Token",
@@ -299,7 +299,7 @@
       "symbol": "BLS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xc44468670837b8e0Cc39Cb822FFd2fE36Fb02Bb7.png"
     },
     {
       "name": "Heco LHB Token",
@@ -307,7 +307,7 @@
       "symbol": "LHB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x8f67854497218043e1f72908ffe38d0ed7f24721.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x8F67854497218043E1f72908FFE38D0Ed7F24721.png"
     },
     {
       "name": "Heco-Peg USDTHECO Token",
@@ -315,7 +315,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
     }
   ]
 }
