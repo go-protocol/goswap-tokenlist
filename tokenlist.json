@@ -110,6 +110,30 @@
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xaC42E32D530d5e3efD74411547021b5791fAF77A.png"
     },
     {
+      "name": "GoCash Cash",
+      "address": "0x271B54EBe36005A7296894F819D626161C44825C",
+      "symbol": "GOC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x271B54EBe36005A7296894F819D626161C44825C.png"
+    },
+    {
+      "name": "GoCash Share",
+      "address": "0x3bb34419a8E7d5E5c68B400459A8eC1AFfe9c56E",
+      "symbol": "GOS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0x3bb34419a8E7d5E5c68B400459A8eC1AFfe9c56E.png"
+    },
+    {
+      "name": "GoCash Bond",
+      "address": "0xaC42E32D530d5e3efD74411547021b5791fAF77A",
+      "symbol": "GOB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xaC42E32D530d5e3efD74411547021b5791fAF77A.png"
+    },
+    {
       "name": "Heco-Peg HUSD Token",
       "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
       "symbol": "HUSD",
