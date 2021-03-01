@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped Ether",
-      "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
+      "name": "Wrapped HT",
+      "address": "0x50B29a42c9e4d0f940292c386207f492458eE358",
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
@@ -23,9 +23,9 @@
     },
     {
       "name": "Tether COIN",
-      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
-      "symbol": "HUSDT",
-      "decimals": 6,
+      "address": "0x4a0795da0044e083EA82207E6F8a75194A2f11D0",
+      "symbol": "USDT",
+      "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x04f535663110a392a6504839beed34e019fdb4e0.png"
     },
@@ -55,16 +55,16 @@
     },
     {
       "name": "ETH",
-      "address": "0xfeb76ae65c11b363bd452afb4a7ec59925848656",
-      "symbol": "HETH",
+      "address": "0x6B958fe634e4bb5fe8Fd363E1D9E85C14e61fBF4",
+      "symbol": "ETH",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xfeb76ae65c11b363bd452afb4a7ec59925848656.png"
     },
     {
       "name": "BTC",
-      "address": "0x1d8684e6cdd65383affd3d5cf8263fcda5001f13",
-      "symbol": "HBTC",
+      "address": "0x4139d24c6C25Cc44F1F405405aC4BF44682F37C6",
+      "symbol": "BTC",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0x1d8684e6cdd65383affd3d5cf8263fcda5001f13.png"
@@ -108,6 +108,14 @@
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOTEST/0xaC42E32D530d5e3efD74411547021b5791fAF77A.png"
+    },
+    {
+      "name": "Heco-Peg HDOT Token",
+      "address": "0xE9ab18781dcB3709c45Edb72688706435B17052f",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3.png"
     },
     {
       "name": "GoCash Cash",
