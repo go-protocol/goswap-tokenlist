@@ -348,6 +348,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+    },
+    {
+      "name": "GoSwap Token",
+      "address": "0xA7d5b5Dbc29ddef9871333AD2295B2E7D6F12391",
+      "symbol": "GOT",
+      "decimals": 18,
+      "chainId": 65,
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0xA7d5b5Dbc29ddef9871333AD2295B2E7D6F12391.png"
     }
   ]
 }
