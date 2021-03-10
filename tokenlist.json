@@ -118,6 +118,14 @@
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3.png"
     },
     {
+      "name": "GoSwap Token",
+      "address": "0xA7d5b5Dbc29ddef9871333AD2295B2E7D6F12391",
+      "symbol": "GOT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/HECOMAIN/0xA7d5b5Dbc29ddef9871333AD2295B2E7D6F12391.png"
+    },
+    {
       "name": "GoCash Cash",
       "address": "0x271b54ebe36005a7296894f819d626161c44825c",
       "symbol": "GOC",
