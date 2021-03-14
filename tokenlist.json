@@ -371,11 +371,7 @@
       "symbol": "HBO",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x25194C65cb6Df4e03E097aD3b6186c0900de7634.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x25194C65cb6Df4e03E097aD3b6186c0900de7634.jpg"
->>>>>>> Stashed changes
     },
     {
       "name": "BAS Token",
@@ -390,11 +386,7 @@
       "symbol": "EDC",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x333FE81c4F60bD140D1Dfcd7916A539FFab01964.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x333FE81c4F60bD140D1Dfcd7916A539FFab01964.jpg"
->>>>>>> Stashed changes
     },{
       "name": "MDX Token",
       "address": "0x9937254fB8b247cb589Ec1C13b79b1647EDC1094",
@@ -417,11 +409,7 @@
       "symbol": "ENJ",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x162847dbDeA7D588dec2195629cD30771bc1d194.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x162847dbDeA7D588dec2195629cD30771bc1d194.jpg"
->>>>>>> Stashed changes
     },{
       "name": "DODO Token",
       "address": "0xA6ed8261F27ECE232323960CA0A74d83882dBea5",
@@ -435,22 +423,14 @@
       "symbol": "ZKS",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x4fdE303e77426730CA440aae5e027e720aa7EF97.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x4fdE303e77426730CA440aae5e027e720aa7EF97.jpg"
->>>>>>> Stashed changes
     },{
       "name": "CAKE Token",
       "address": "0x6f255CD74D0Cc71853bEf8c1f3b2d8f9f180Ca86",
       "symbol": "CAKE",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x6f255CD74D0Cc71853bEf8c1f3b2d8f9f180Ca86.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x6f255CD74D0Cc71853bEf8c1f3b2d8f9f180Ca86.jpg"
->>>>>>> Stashed changes
     },
     {
       "name": "AAVE Token",
@@ -458,11 +438,7 @@
       "symbol": "AAVE",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0xd8A2C7870f9FDFEf3b8024e56Ba4CB690F1f649e.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0xd8A2C7870f9FDFEf3b8024e56Ba4CB690F1f649e.jpg"
->>>>>>> Stashed changes
     },
     {
       "name": "AVAX Token",
@@ -484,11 +460,7 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x15C2D6A75dbb02D9010Bb31ba6991DbE4dDCE814.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x15C2D6A75dbb02D9010Bb31ba6991DbE4dDCE814.jpg"
->>>>>>> Stashed changes
     },{
       "name": "MANA Token",
       "address": "0x9c7378EEBa3B088408ddF1e244D91450C00459C3",
@@ -502,33 +474,21 @@
       "symbol": "ONT",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x24F574bdD1d81F4785d3DC6Ab05355e92D8f762E.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x24F574bdD1d81F4785d3DC6Ab05355e92D8f762E.jpg"
->>>>>>> Stashed changes
     },{
       "name": "CRV Token",
       "address": "0x245f3863b2de25105A67cdF2c1A4D4c26492Ab48",
       "symbol": "CRV",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x245f3863b2de25105A67cdF2c1A4D4c26492Ab48.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x245f3863b2de25105A67cdF2c1A4D4c26492Ab48.jpg"
->>>>>>> Stashed changes
     },{
       "name": "SUN Token",
       "address": "0x801D1c87AC07F2e9b40cE13a09622fec1FDdF6d1",
       "symbol": "SUN",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x801D1c87AC07F2e9b40cE13a09622fec1FDdF6d1.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x801D1c87AC07F2e9b40cE13a09622fec1FDdF6d1.jpg"
->>>>>>> Stashed changes
     },{
       "name": "SON Token",
       "address": "0x0C4e95522dA80e719252b469056453261790e5aE",
@@ -542,22 +502,14 @@
       "symbol": "BEE",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x48FC7b6580682a4967e8944074cc8e8aa771986f.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x48FC7b6580682a4967e8944074cc8e8aa771986f.jpg"
->>>>>>> Stashed changes
     },{
       "name": "BTM Token",
       "address": "0xCAd09E18A11bf40858723Ea75CeEb17871001b1d",
       "symbol": "BTM",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0xCAd09E18A11bf40858723Ea75CeEb17871001b1d.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0xCAd09E18A11bf40858723Ea75CeEb17871001b1d.jpg"
->>>>>>> Stashed changes
     },{
       "name": "DOGE Token",
       "address": "0x83DA43a2E06b7509F328679A3e117019263240AC",
@@ -571,11 +523,7 @@
       "symbol": "HBAR",
       "decimals": 18,
       "chainId": 65,
-<<<<<<< Updated upstream
-      "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x1206d48F89B4E18f31822b4444cF51a683145E1f.png"
-=======
       "logoURI": "https://raw.githubusercontent.com/go-protocol/goswap-tokenlist/main/assets/OKTEST/0x1206d48F89B4E18f31822b4444cF51a683145E1f.jpg"
->>>>>>> Stashed changes
     },{
       "name": "LUMA Token",
       "address": "0x06E126C814656d6dA2c5a6d8a41E00F510B79F34",
